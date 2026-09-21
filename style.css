@@ -772,4 +772,16 @@ footer p {
         padding: 15px 20px;
     }
 
+}.project-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
 }
+
+.project-btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+}
+
